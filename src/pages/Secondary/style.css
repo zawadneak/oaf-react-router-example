@@ -1,0 +1,15 @@
+.secondary{
+  height: 200%;
+  width: 100%;
+  background-color: #2C5422;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+  padding: 20px 0px;
+}
+
+.secondary > h1{
+  color: #fff
+}
